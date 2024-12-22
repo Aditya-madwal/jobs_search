@@ -53,7 +53,7 @@ Aditya Madwal
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/aditya-madwal/jobsearch
+   git clone https://github.com/aditya-madwal/jobs_search
    cd frontend
    ```
 
@@ -71,7 +71,7 @@ Aditya Madwal
 
 4. Run the backend:
 
-   - Navigate to your Django project directory.
+   - Navigate to the Django project directory.
    - Run the server:
      ```bash
      python manage.py runserver
@@ -80,7 +80,7 @@ Aditya Madwal
 5. Open your browser and navigate to:
    ```
    http://127.0.0.1:8000 -- backend
-   hthttp://localhost:5173 -- frontend (usable app)
+   http://localhost:5173 -- frontend (usable app)
    ```
 
 ---
